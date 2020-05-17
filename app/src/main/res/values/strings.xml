@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">familyOrganizer</string>
+
+    //childInfoFrame strings
+    <string name= "child_name">Name:</string>
+    <string name="child_dob">Date of Birth:</string>
+</resources>

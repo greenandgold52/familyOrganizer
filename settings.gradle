@@ -1,0 +1,2 @@
+rootProject.name='familyOrganizer'
+include ':app'
