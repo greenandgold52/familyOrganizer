@@ -10,5 +10,6 @@
     <string name="child_insurance">Insurance:</string>
     <string name="child_insurance_id">ID:</string>
     <string name="child_insurance_group">Group:</string>
+    <string name="notice_to_provider">Notice To Provider:</string>
 
 </resources>
